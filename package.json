@@ -1,0 +1,14 @@
+{
+  "name": "void-native-notebook-1017",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "better-sqlite3": "13.0.3"
+  }
+}
